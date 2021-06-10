@@ -16,11 +16,13 @@
 ![](https://github.com/ArunBalajiR/Phishing-URL-Detection/blob/master/dataset/phising3.png?raw=true)
 
 ##  What is a phishing attack?
-    Phishing is a type of social engineering attack often used to steal user data, including login credentials and credit card numbers. It occurs when an attacker, masquerading as a trusted entity, dupes a victim into opening an email, instant message, or text message.
+   Phishing is a type of social engineering attack often used to steal user data, including login credentials and credit card numbers. It occurs when an attacker, masquerading as a trusted entity, dupes a victim into opening an email, instant message, or text message.
 
 ## Phishing attack examples
 
-    A spoofed email ostensibly from myuniversity.edu is mass-distributed to as many faculty members as possible. The email claims that the user’s password is about to expire. Instructions are given to go to myuniversity.edu/renewal to renew their password within 24 hours.
+   A spoofed email ostensibly from myuniversity.edu is mass-distributed to as many faculty members as possible. The email claims that the user’s password is about to expire. Instructions are given to go to myuniversity.edu/renewal to renew their password within 24 hours.
+   
+   
 ![](https://github.com/ArunBalajiR/Phishing-URL-Detection/blob/master/dataset/example.png?raw=true)
 
 Several things can occur by clicking the link.    
